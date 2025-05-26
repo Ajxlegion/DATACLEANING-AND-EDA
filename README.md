@@ -5,7 +5,7 @@
 -- https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
 
-THE STEPS TAKENN TO CLEAN THE DATA!!
+THE STEPS TAKEN TO CLEAN THE DATA!!
 
 1. check for duplicates and remove any
 
